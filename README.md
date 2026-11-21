@@ -59,6 +59,7 @@ Works best when the assistant can read and write the vault folder directly: a fo
 2. Open **Skills** → **Create** → **Upload from your computer**, and choose the ZIP.
 
 **Claude Code / Codex**
+
 Copy the `project-memory-kit` folder to `~/.claude/skills/` (Claude Code) or `~/.codex/skills/` (Codex).
 
 ## Quick start
